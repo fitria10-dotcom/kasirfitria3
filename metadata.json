@@ -1,0 +1,8 @@
+{
+  "name": "Kasir Fitria Oktafiani - POS & Stok Majenang",
+  "description": "Aplikasi Kasir POS Fitria Oktafiani, Jl. Cabesar 02/08 Majenang dengan menu lengkap berfoto, manajemen stok bahan makanan otomatis, dan cetak struk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
